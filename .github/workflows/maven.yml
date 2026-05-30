@@ -61,7 +61,7 @@ jobs:
           
       - name: Push Docker Image
         run: |
-          docker push nihalkumar/boardgame:latest
+          docker push nihal2309/boardgame:latest
 
 
 
